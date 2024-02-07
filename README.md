@@ -1,4 +1,4 @@
-# Linux EC2 Project Work Through 
+# Linux EC2 Template Work Through  
    1. Create VPC
    2. Create Internet Gateway
    3. Create a Custom Route Table
